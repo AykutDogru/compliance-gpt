@@ -1,0 +1,10 @@
+langchain
+langchain_community
+langchain-qdrant
+langchain_openai
+qdrant-client
+streamlit
+openai
+pypdf
+langgraph
+fastembed
